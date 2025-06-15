@@ -13,3 +13,4 @@ I love programming in Python and JavaScript frameworks, and I’m currently expl
 - **Outdoorsy**: A camping application that uses  alerts and intelligent suggestions to help users find the best campsites in Ontario.
 - Experimenting with agentic workflows and LLM-based automation to push the boundaries of GTM efforts
 
+
