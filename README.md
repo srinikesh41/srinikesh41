@@ -1,51 +1,61 @@
-## Hi there 👋
+👋 Welcome to My GitHub
+Hi, I’m Srinikesh Singarapu!
+I'm passionate about software development, product building, and creating impactful solutions that leverage the latest in AI, machine learning, and large language models (LLMs). My focus is on discovering the best ways to integrate modern software, product thinking, and agentic workflows with cutting-edge AI technologies.
 
-<!--
-**srinikesh41/srinikesh41** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills
+💻 Programming Languages
+Python
 
-Here are some ideas to get you started:
+JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java
 
----
+C++
 
-## 👨‍🎓 About Me
+🚀 Frameworks & Libraries
+React
 
-- **Name**: Sirniskesh Singarapu
-- **Program**: Management Engineering Student @ University of Waterloo
-- **Interests**: Software development, product management, startups, and integrating them with machine learning & AI
+Node.js
 
-I’m passionate about building robust software solutions and designing products that leverage AI to solve real-world problems. I love the fast-paced environment of startups and am especially interested in working on AI agents, automated workflows, and any AI/ML-related challenges. At Waterloo, I’m honing both my technical and strategic skills to bridge the gap between engineering and business.
+Express
 
----
+Django
 
-## ✨ Highlights
+🤖 AI & ML Technologies
+TensorFlow
 
-<!-- Add your key accomplishments, skills, or project snippets here -->
+PyTorch
 
----
+scikit-learn
 
-## 🔧 What I Love To Do
+OpenAI API
 
-- 🐍 **Python**: Automating tasks, building backend services, and prototyping AI/ML models.
-- 💻 **JavaScript/TypeScript**: Crafting intuitive user interfaces and full-stack applications.
-- 🤖 **Machine Learning & AI**: Exploring models, data pipelines, and embedding intelligence into products.
-- 🚀 **Product Strategy**: Defining roadmaps, user-centric design, and bringing ideas from concept to launch.
+LangChain
 
----
+🛠️ Tools & Platforms
+Git
 
-## 📫 Get In Touch
+Docker
 
-- **Email**: sirniskesh.singarapu@example.com
-- **LinkedIn**: [linkedin.com/in/sirniskesh](https://linkedin.com/in/sirniskesh)
-- **Twitter**: [@sirniskesh](https://twitter.com/sirniskesh)
+VS Code
 
-Feel free to explore my repos, open issues, or reach out. Let’s collaborate and build the future together! 🌟
+Figma
+
+💼 Experiences
+Developed and deployed AI-powered applications that enhance user experiences and automate complex workflows.
+
+Built and maintained web products that integrate LLMs and agentic systems to solve real-world problems.
+
+Collaborated with teams to design and launch scalable software solutions, always seeking innovative ways to combine product development with AI advancements.
+
+🏗️ What I'm Working On
+Fishby: A fishing charter marketplace, exploring how AI can personalize recommendations and streamline bookings.
+
+Outdoorsy: A camping application that uses AI-driven alerts and intelligent suggestions to help users find the best campsites in Ontario.
+
+Experimenting with agentic workflows and LLM-based automation to push the boundaries of what modern software products can achieve.
+
+📫 Let’s Connect!
+Email: srinikesh@example.com
+
+LinkedIn: linkedin.com/in/srinikesh-singarapu
